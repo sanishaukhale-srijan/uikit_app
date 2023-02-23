@@ -7,7 +7,6 @@
 
 import Foundation
 
-
 struct FactModel: Decodable {
     let id,text: String
     
